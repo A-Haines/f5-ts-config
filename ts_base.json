@@ -1,5 +1,10 @@
 {
     "class": "Telemetry",
+    "controls": {
+        "class": "Controls",
+        // Set Log Level Here
+        "logLevel": "info"
+    },
     "My_System": {
         "class": "Telemetry_System",
         "systemPoller": {
