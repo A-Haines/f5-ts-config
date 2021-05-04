@@ -1,0 +1,14 @@
+// Log streams from LTM, AFM, ASM, and APM are not configured by Telemetry Streaming, they must be configured with AS3 or another method.
+{
+    "event_source":"request_logging",
+    "event_timestamp":"2019-01-01:01:01.000Z",
+    "hostname":"hostname",
+    "client_ip":"192.0.2.42",
+    "server_ip":"",
+    "http_method":"GET",
+    "http_uri":"/",
+    "virtual_name":"/Common/app.app/app_vs",
+    "tenant":"Common",
+    "application":"app.app",
+    "telemetryEventCategory": "LTM"
+}

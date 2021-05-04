@@ -2,7 +2,7 @@
     "class": "Telemetry",
     "controls": {
         "class": "Controls",
-        // Set Log Level Here
+        // Set Log Level Here (info, debug, error)
         "logLevel": "info"
     },
     "My_System": {

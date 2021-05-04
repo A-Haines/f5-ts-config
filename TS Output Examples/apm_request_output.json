@@ -1,0 +1,15 @@
+// Log streams from LTM, AFM, ASM, and APM are not configured by Telemetry Streaming, they must be configured with AS3 or another method.
+{
+    "hostname":"telemetry.bigip.com",
+    "errdefs_msgno":"01490102:5:",
+    "partition_name":"Common",
+    "session_id":"ec7fd55d",
+    "Access_Profile":"/Common/access_app",
+    "Partition":"Common",
+    "Session_Id":"ec7fd55d",
+    "Access_Policy_Result":"Logon_Deny",
+    "tenant":"Common",
+    "application":"",
+    "telemetryEventCategory":"APM",
+    "f5telemetry_timestamp": "2020-12-03T22:10:07.783Z"
+}
